@@ -3,3 +3,4 @@ data/
 .env
 *.sqlite*
 .DS_Store
+docs/linkedin-published*.png

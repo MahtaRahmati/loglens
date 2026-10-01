@@ -1,0 +1,12 @@
+CSV and Apache common/combined access log import, with invalid-row reporting.
+
+Request timeline, unique clients, response status families, transfer totals, and top IPs.
+
+Searchable, paginated request table, filtered CSV export, and explainable threshold-based signals.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+
+GitHub: https://github.com/MahtaRahmati/loglens
+
+فارسی:
+تحلیل لاگ‌های CSV و Apache در مرورگر، نمایش ترافیک و خطاها، فیلتر درخواست‌ها و بررسی الگوهای قابل توضیح.
