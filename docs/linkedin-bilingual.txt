@@ -1,0 +1,25 @@
+Project 2/6: LogLens — Network Log Analyzer
+
+• CSV and Apache common/combined access log import, with invalid-row reporting.
+• Request timeline, unique clients, response status families, transfer totals, and top IPs.
+• Searchable, paginated request table, filtered CSV export, and explainable threshold-based signals.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+Includes automated tests for the core logic.
+This is a client-side learning tool; its signals are simple heuristics, not security verdicts.
+
+Source code and setup: https://github.com/MahtaRahmati/loglens
+
+Feedback and code reviews are welcome.
+
+#JavaScript #LogAnalysis #Networking #DataVisualization
+
+────────────
+
+پروژهٔ 2 از ۶: LogLens
+
+تحلیل لاگ‌های CSV و Apache در مرورگر، نمایش ترافیک و خطاها، فیلتر درخواست‌ها و بررسی الگوهای قابل توضیح.
+
+این نسخه با JavaScript، HTML و CSS ساخته شده و در مرورگر اجرا می‌شود.
+
+کد و راهنمای اجرا: https://github.com/MahtaRahmati/loglens
